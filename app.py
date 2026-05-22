@@ -8,7 +8,7 @@ import requests
 '''
 
 st.markdown('''
-Fillin you information
+Fill in you information
 ''')
 
 
